@@ -121,7 +121,9 @@ O ambiente permite visualizar o circuito, alterar os valores do sensor DHT22 e a
 
 # 🎥 Vídeo Demonstrativo
 
-O vídeo de apresentação da solução foi desenvolvido para a disciplina de Storytelling e Inspiração Empreendedora e demonstra o funcionamento completo do projeto UrbanHeat.
+O vídeo de apresentação da simulação foi desenvolvido para demonstrar o funcionamento completo do projeto UrbanHeat.
+
+https://youtu.be/9LqTcvX-ZjU
 
 ---
 
