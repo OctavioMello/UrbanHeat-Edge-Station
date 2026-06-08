@@ -106,6 +106,16 @@ Juliano Galhardo de Oliveira — RM: 572493
 
 ---
 
+# 🔗 Simulação no Wokwi
+
+A simulação completa do projeto pode ser acessada através do link abaixo:
+
+👉 https://wokwi.com/projects/466113058335723521
+
+O ambiente permite visualizar o circuito, alterar os valores do sensor DHT22 e acompanhar em tempo real o comportamento do sistema, incluindo os alertas visuais e sonoros, a classificação de prioridade ambiental e a exibição das informações no display LCD.
+
+---
+
 # 🎥 Vídeo Demonstrativo
 
 O vídeo de apresentação da solução foi desenvolvido para a disciplina de Storytelling e Inspiração Empreendedora e demonstra o funcionamento completo do projeto UrbanHeat.
