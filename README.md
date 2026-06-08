@@ -100,8 +100,11 @@ Essa integração entre sensoriamento remoto e processamento local representa um
 # 👥 Integrantes
 
 Octávio Mello Covre de Souza — RM: 571811
+
 Gabriel Torres Zambo — RM: 569883
+
 Hiago Silva de Oliveira — RM: 572664
+
 Juliano Galhardo de Oliveira — RM: 572493
 
 ---
