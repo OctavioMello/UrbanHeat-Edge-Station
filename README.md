@@ -86,19 +86,6 @@ Quando a umidade é elevada, o índice de risco ambiental recebe uma penalizaç�
 
 ---
 
-# 🚀 Instruções de Execução
-
-## Executando no Wokwi
-
-1. Abrir o simulador Wokwi.
-2. Criar um novo projeto Arduino Uno.
-3. Inserir os componentes especificados.
-4. Importar o arquivo `diagram.json`.
-5. Copiar o conteúdo do arquivo `urbanheat_v2.ino`.
-6. Iniciar a simulação.
-7. Alterar os valores do sensor DHT22 para testar diferentes cenários.
-
----
 
 # 🛰️ Relação com a Indústria Espacial
 
